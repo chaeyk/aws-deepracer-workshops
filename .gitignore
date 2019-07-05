@@ -1,5 +1,6 @@
 log-analysis/.ipynb_checkpoints
 log-analysis/__pycache__
-log-analysis/logs/deepracer-eval-*.log
-log-analysis/logs/*SimulationApplicationLogs.log
+log-analysis/logs
+log-analysis/model
+log-analysis/intermediate_checkpoint
 
