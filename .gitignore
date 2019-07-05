@@ -1,0 +1,5 @@
+log-analysis/.ipynb_checkpoints
+log-analysis/__pycache__
+log-analysis/deepracer-eval-*.log
+log-analysis/logs/*SimulationApplicationLogs.log
+
